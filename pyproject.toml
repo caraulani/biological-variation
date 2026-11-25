@@ -1,0 +1,14 @@
+[project]
+name = "meaningful-change"
+version = "1.0.0"
+description = "Reference change values from open biological variation estimates (reference implementation)."
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "LifeFrom"}, {name = "Julian Caraulani"}]
+dependencies = []
+
+[project.optional-dependencies]
+build = ["pymupdf==1.26.*"]
+
+[tool.setuptools.packages.find]
+where = ["src/python"]

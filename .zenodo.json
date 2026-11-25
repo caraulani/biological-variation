@@ -1,0 +1,32 @@
+{
+  "title": "Meaningful change: open biological variation estimates and reference change values",
+  "upload_type": "dataset",
+  "version": "1.0.0",
+  "publication_date": "2026-11-25",
+  "description": "An open table of within-subject (CVI) and between-subject (CVG) biological variation estimates for 129 laboratory analytes (123 with a primary estimate), each copied from the full text of a published study or meta-analysis with DOI and table location, plus cited RCV equations (symmetric and log-normal), a Python reference implementation and a TypeScript function tested against published reference change values. No content from the EFLM Biological Variation Database is included.",
+  "creators": [
+    {
+      "name": "LifeFrom"
+    },
+    {
+      "name": "Caraulani, Julian",
+      "affiliation": "LifeFrom"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "biological variation",
+    "reference change value",
+    "within-subject variation",
+    "laboratory medicine",
+    "analytical performance specifications"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://lifefrom.ai/research/open-data/meaningful-change",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Code (src/, scripts/, tests/) is under the MIT licence."
+}

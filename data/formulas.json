@@ -1,0 +1,20 @@
+{
+ "units": "All CVs in percent.",
+ "z": {"two_sided": {"0.90": 1.645, "0.95": 1.960, "0.99": 2.576}, "one_sided": {"0.90": 1.282, "0.95": 1.645, "0.99": 2.326}},
+ "rcv_symmetric": {"expr": "rcv = ± z * sqrt(2) * sqrt(cva^2 + cvi^2)",
+   "sources": ["10.11613/bm.2019.030702", "10.1515/almed-2020-0063", "10.21037/atm-19-4498"]},
+ "rcv_lognormal": {"expr": "s = sqrt(ln(1 + (cva/100)^2) + ln(1 + (cvi/100)^2)); rcv_up = 100*(exp(z*sqrt(2)*s) - 1); rcv_down = 100*(exp(-z*sqrt(2)*s) - 1)",
+   "original": "10.1373/clinchem.2006.069369", "original_full_text_read": false,
+   "sources": ["10.1515/cclm-2021-0904", "10.21037/atm-19-4498"]},
+ "percent_change": {"expr": "100 * (value2 - value1) / value1"},
+ "exceeds": {"expr": "percent_change >= rcv_up or percent_change <= rcv_down"},
+ "index_of_individuality": {"expr": "ii = cvi / cvg", "note": "Below about 0.6: population reference intervals say little about change in one person.",
+   "original": "10.1093/clinchem/20.12.1535", "original_full_text_read": false, "sources": ["10.1515/almed-2020-0063", "10.1515/cclm-2021-0904"]},
+ "aps": {"optimum": {"imprecision": "0.25 * cvi", "bias": "0.125 * sqrt(cvi^2 + cvg^2)"},
+         "desirable": {"imprecision": "0.50 * cvi", "bias": "0.250 * sqrt(cvi^2 + cvg^2)"},
+         "minimum": {"imprecision": "0.75 * cvi", "bias": "0.375 * sqrt(cvi^2 + cvg^2)"},
+         "total_error": "1.65 * imprecision + bias",
+         "sources": ["10.11613/bm.2019.030702", "10.21037/atm-19-4498", "10.1016/j.cca.2024.117806"],
+         "framework": "10.1515/cclm-2015-0067"},
+ "cva_policy": "Enter the CVA of the laboratory that produced the results. cva_study is the CVA from the BV study (duplicates in one run) and is usually smaller than routine between-day CVA. 0.5*cvi may be used only as a labelled 'desirable goal' fallback."
+}

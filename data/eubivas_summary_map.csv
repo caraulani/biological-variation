@@ -1,0 +1,83 @@
+row_no,printed_label,analyte,marker_slug,specimen,platform_group,primary_paper_ref,primary_paper_doi,include,notes
+1,"ALT, U/L",Alanine aminotransferase (ALT),alt,serum,Siemens ADVIA 2400 (clinical chemistry),[22],10.1373/clinchem.2016.269811,yes,
+2,"AST, U/L",Aspartate aminotransferase (AST),ast,serum,Siemens ADVIA 2400 (clinical chemistry),[22],10.1373/clinchem.2016.269811,yes,
+3,"GGT, U/L",Gamma-glutamyl transferase (GGT),ggt,serum,Siemens ADVIA 2400 (clinical chemistry),[22],10.1373/clinchem.2016.269811,yes,
+4,"ALP, U/L",Alkaline phosphatase (ALP),alp,serum,Siemens ADVIA 2400 (clinical chemistry),[22],10.1373/clinchem.2016.269811,yes,
+5,"LDH, U/L",Lactate dehydrogenase (LDH),ldh,serum,Siemens ADVIA 2400 (clinical chemistry),[22],10.1373/clinchem.2016.269811,yes,
+6,"CK, U/L",Creatine kinase (CK),ck-total,serum,Siemens ADVIA 2400 (clinical chemistry),[22],10.1373/clinchem.2016.269811,yes,
+7,"AMY, U/L",Amylase (total),amylase,serum,Siemens ADVIA 2400 (clinical chemistry),[22],10.1373/clinchem.2016.269811,yes,
+8,"PAMY, U/L",Pancreatic amylase,,serum,Siemens ADVIA 2400 (clinical chemistry),[22],10.1373/clinchem.2016.269811,yes,
+9,"LIP, U/L",Lipase,lipase,serum,Siemens ADVIA 2400 (clinical chemistry),[22],10.1373/clinchem.2016.269811,yes,
+10,"Na, mmol/L",Sodium,sodium-serum,serum,Siemens ADVIA 2400 (clinical chemistry),[23],10.1373/clinchem.2018.288415,yes,
+11,"K, mmol/L",Potassium,potassium-serum,serum,Siemens ADVIA 2400 (clinical chemistry),[23],10.1373/clinchem.2018.288415,yes,
+12,"Cl, mmol/L",Chloride,chloride-serum,serum,Siemens ADVIA 2400 (clinical chemistry),[23],10.1373/clinchem.2018.288415,yes,
+13,"Ca, mmol/L",Calcium (total),calcium-total,serum,Siemens ADVIA 2400 (clinical chemistry),[23],10.1373/clinchem.2018.288415,yes,
+14,"Mg, mmol/L",Magnesium,magnesium-serum,serum,Siemens ADVIA 2400 (clinical chemistry),[23],10.1373/clinchem.2018.288415,yes,
+15,"IP, mmol/L",Phosphate (inorganic),phosphorus-serum,serum,Siemens ADVIA 2400 (clinical chemistry),[23],10.1373/clinchem.2018.288415,yes,
+16,"TC, mmol/L",Total cholesterol,total-cholesterol,serum,Siemens ADVIA 2400 (clinical chemistry),[23],10.1373/clinchem.2018.288415,yes,
+17,"HDL Chol, mmol/L",HDL cholesterol,hdl-cholesterol,serum,Siemens ADVIA 2400 (clinical chemistry),[23],10.1373/clinchem.2018.288415,yes,
+18,"LDL Chol, mmol/L",LDL cholesterol,ldl-cholesterol,serum,Siemens ADVIA 2400 (clinical chemistry),[23],10.1373/clinchem.2018.288415,yes,The summary table does not say whether LDL cholesterol was measured or calculated; check the primary paper.
+19,"Non-HDL Chol, mmol/L",Non-HDL cholesterol,non-hdl-cholesterol,serum,Siemens ADVIA 2400 (clinical chemistry),[23],10.1373/clinchem.2018.288415,yes,
+20,"Trig, mmol/L",Triglycerides,triglycerides,serum,Siemens ADVIA 2400 (clinical chemistry),[23],10.1373/clinchem.2018.288415,yes,Summary report text names triglycerides among measurands with sex-related CVI differences.
+21,"Glu, mmol/L",Glucose (fasting),glucose-fasting,serum,Siemens ADVIA 2400 (clinical chemistry),[23],10.1373/clinchem.2018.288415,yes,
+22,"Urea, mmol/L",Urea,urea,serum,Siemens ADVIA 2400 (clinical chemistry),[23],10.1373/clinchem.2018.288415,yes,Summary report text names urea among measurands with sex-related CVI differences. Same CV applies to blood urea nitrogen (BUN) since BUN is urea reported as nitrogen.
+23,"UA, μmol/L",Uric acid,uric-acid,serum,Siemens ADVIA 2400 (clinical chemistry),[23],10.1373/clinchem.2018.288415,yes,Summary report text names uric acid among measurands with sex-related CVI differences.
+24,"TP, g/L",Total protein,total-protein,serum,Siemens ADVIA 2400 (clinical chemistry),[23],10.1373/clinchem.2018.288415,yes,
+25,"T Bil, μmol/L",Total bilirubin,total-bilirubin,serum,Siemens ADVIA 2400 (clinical chemistry),[23],10.1373/clinchem.2018.288415,yes,
+26,"D Bil, μmol/L",Direct bilirubin,direct-bilirubin,serum,Siemens ADVIA 2400 (clinical chemistry),[23],10.1373/clinchem.2018.288415,yes,
+27,"Crea Enz, μmol/L",Creatinine (enzymatic method),creatinine-serum,serum,Siemens ADVIA 2400 (clinical chemistry),[24],10.1373/clinchem.2017.275115,yes,"The printed CVA, 1.1 (1.5–1.2), has a confidence interval that does not contain the point estimate; reproduced as printed."
+28,"Crea Jaffe, μmol/L",Creatinine (Jaffe method),creatinine-serum,serum,Siemens ADVIA 2400 (clinical chemistry),[24],10.1373/clinchem.2017.275115,yes,
+29,"NSE, μg/L",Neuron-specific enolase (NSE),,serum,Roche Cobas e801 (tumour markers/hormones),[26],10.1373/clinchem.2018.292169,yes,
+30,"S100B, pg/L",S100-beta protein,,serum,Roche Cobas e801 (tumour markers/hormones),[26],10.1373/clinchem.2018.292169,yes,
+31,"AAT, g/L",Alpha-1-antitrypsin,alpha-1-antitrypsin,serum,Roche Cobas c702 (proteins),[27],10.1373/clinchem.2019.304618,yes,
+32,"AGP, g/L",Alpha-1-acid glycoprotein,,serum,Roche Cobas c702 (proteins),[27],10.1373/clinchem.2019.304618,yes,Summary report text names AGP among measurands with sex-related CVI differences.
+33,"Alb, g/L",Albumin,albumin-serum,serum,Roche Cobas c702 (proteins),[27],10.1373/clinchem.2019.304618,yes,
+34,"β2M, nmol/L",Beta-2-microglobulin,beta-2-microglobulin,serum,Roche Cobas c702 (proteins),[27],10.1373/clinchem.2019.304618,yes,
+35,"C3, g/L",Complement C3,complement-c3,serum,Roche Cobas c702 (proteins),[27],10.1373/clinchem.2019.304618,yes,
+36,"C4, g/L",Complement C4,complement-c4,serum,Roche Cobas c702 (proteins),[27],10.1373/clinchem.2019.304618,yes,
+37,"Cer, g/L",Ceruloplasmin,ceruloplasmin,serum,Roche Cobas c702 (proteins),[27],10.1373/clinchem.2019.304618,yes,
+38,"CysC, mg/L",Cystatin C,cystatin-c,serum,Roche Cobas c702 (proteins),[27],10.1373/clinchem.2019.304618,yes,
+39,"Hapto, g/L",Haptoglobin,haptoglobin,serum,Roche Cobas c702 (proteins),[27],10.1373/clinchem.2019.304618,yes,Summary report notes 20% of haptoglobin results were excluded (assumed acute-phase episodes); CVI may be underestimated.
+40,"IgA, g/L",Immunoglobulin A,iga,serum,Roche Cobas c702 (proteins),[27],10.1373/clinchem.2019.304618,yes,"Summary report text names IgA among measurands with sex-related CVI differences. The printed mean values for IgA, IgG and IgM look implausible for g/L; only CVs are used here."
+41,"IgG, g/L",Immunoglobulin G,igg,serum,Roche Cobas c702 (proteins),[27],10.1373/clinchem.2019.304618,yes,
+42,"IgM, g/L",Immunoglobulin M,igm,serum,Roche Cobas c702 (proteins),[27],10.1373/clinchem.2019.304618,yes,
+43,"Trf, g/L",Transferrin,transferrin,serum,Roche Cobas c702 (proteins),[27],10.1373/clinchem.2019.304618,yes,
+44,"sTfr, mg/L",Soluble transferrin receptor,soluble-transferrin-receptor,serum,Roche Cobas c702 (proteins),[27],10.1373/clinchem.2019.304618,yes,Summary report text names sTfR among measurands with sex-related CVI differences.
+45,"CRP, mg/L",C-reactive protein,crp,serum,Roche Cobas c702 (proteins),[27],10.1373/clinchem.2019.304618,yes,"Mean 0.72 mg/L in a healthy cohort, so this describes CRP at low (hs-CRP) concentrations; also relevant to marker hs-crp. Summary report: about 25% of participants had at least one mild inflammation episode; the report suggests state-of-the-art APS rather than BV-based APS for CRP."
+46,"Lp(a), nmol/L",Lipoprotein(a),lipoprotein-a,serum,Roche Cobas c702 (proteins),[31],10.1093/clinchem/hvaa054,yes,CVG not calculated (NC) in the source.
+47,"ApoA1, μmol/L",Apolipoprotein A1,apolipoprotein-a1,serum,Roche Cobas c702 (proteins),[31],10.1093/clinchem/hvaa054,yes,
+48,"ApoB, μmol/L",Apolipoprotein B,apolipoprotein-b,serum,Roche Cobas c702 (proteins),[31],10.1093/clinchem/hvaa054,yes,
+49,"TnI Siemens, ng/L","Cardiac troponin I, high-sensitivity (Siemens assay)",troponin-i-hs,serum,Siemens high-sensitivity troponin I assay,[28],10.1515/cclm-2019-1182,yes,Healthy-population troponin concentrations lie near the assay limits; n=66.
+50,"Tn I Singulex, ng/L","Cardiac troponin I, high-sensitivity (Singulex assay)",troponin-i-hs,serum,Singulex high-sensitivity troponin I assay,[28],10.1515/cclm-2019-1182,yes,The printed M/F split (37/42) does not add to 89; reproduced as printed.
+51,"PTH 1-84, ng/L",Parathyroid hormone 1-84 (biointact),pth,serum,Roche Cobas e801 (tumour markers/hormones),[29],10.21037/atm-19-4498,withheld,"CVI differs by sex (men 13.0%, women 15.2% in the primary paper). Not shipped: first published in Bottani 2020 (Ann Transl Med), whose article page stated CC BY-NC-ND 4.0 when read on 2026-11-25."
+52,"OC, μg/L",Osteocalcin,osteocalcin,serum,IDS iSYS or DiaSorin Liaison (bone markers),[30],10.1007/s00198-020-05362-8,yes,
+53,"uCuP-MGP, pmol/L",Uncarboxylated unphosphorylated matrix Gla protein,,plasma or serum (see primary paper),IDS iSYS or DiaSorin Liaison (bone markers),[30],10.1007/s00198-020-05362-8,yes,
+54,"PINP, μg/L",Procollagen type 1 N-terminal propeptide (PINP),p1np,serum,IDS iSYS or DiaSorin Liaison (bone markers),[30],10.1007/s00198-020-05362-8,yes,
+55,"β-CTX, ng/L",Beta-CTX (C-terminal telopeptide of type I collagen),ctx,serum,IDS iSYS or DiaSorin Liaison (bone markers),[30],10.1007/s00198-020-05362-8,yes,
+56,"iFGF23, ng/L",Intact fibroblast growth factor 23,,serum or plasma (see primary paper),IDS iSYS or DiaSorin Liaison (bone markers),[30],10.1007/s00198-020-05362-8,yes,
+57,"Cort, nmol/L",Cortisol (morning),cortisol-am,serum,Roche Cobas e801 (tumour markers/hormones),[32],10.1016/j.cca.2020.06.038,yes,Fasting morning samples.
+58,"INS, mU/L",Insulin (fasting),fasting-insulin,serum,Roche Cobas e801 (tumour markers/hormones),[33],10.1515/cclm-2020-1490,yes,
+59,"TSH, mIU/L",Thyroid-stimulating hormone (TSH),tsh,serum,Roche Cobas e801 (tumour markers/hormones),[35],10.1515/cclm-2020-1885,yes,
+60,"FT3, pmol/L",Free triiodothyronine (FT3),free-t3,serum,Roche Cobas e801 (tumour markers/hormones),[35],10.1515/cclm-2020-1885,yes,
+61,"FT4, pmol/L",Free thyroxine (FT4),free-t4,serum,Roche Cobas e801 (tumour markers/hormones),[35],10.1515/cclm-2020-1885,yes,
+62,"HCT, ng/L",Calcitonin,,serum,Roche Cobas e801 (tumour markers/hormones),[35],10.1515/cclm-2020-1885,yes,"HCT here is calcitonin (thyroid paper), not haematocrit."
+63,"TG, µg/L",Thyroglobulin,thyroglobulin,serum,Roche Cobas e801 (tumour markers/hormones),[35],10.1515/cclm-2020-1885,yes,"TG here is thyroglobulin, not triglycerides."
+64,"TPSA, µg/L",Prostate-specific antigen (total),psa-total,serum,Roche Cobas e801 (tumour markers/hormones),[25],10.1016/j.cca.2018.07.043,yes,Men only.
+65,"fPSA, µg/L",Prostate-specific antigen (free),psa-free,serum,Roche Cobas e801 (tumour markers/hormones),[25],10.1016/j.cca.2018.07.043,yes,Men only.
+66,"cPSA, µg/L",Prostate-specific antigen (complexed),,serum,Roche Cobas e801 (tumour markers/hormones),[25],10.1016/j.cca.2018.07.043,yes,Men only.
+67,%free PSA%,Free/total PSA ratio (% free PSA),psa-free-total-ratio,serum,Roche Cobas e801 (tumour markers/hormones),[25],10.1016/j.cca.2018.07.043,yes,Men only.
+68,"Ca15-3, U/mL",CA 15-3,ca-15-3,serum,Roche Cobas e801 (tumour markers/hormones),[36],10.1515/cclm-2021-0283,yes,
+69,"CEA, µg/L",Carcinoembryonic antigen (CEA),cea,serum,Roche Cobas e801 (tumour markers/hormones),[36],10.1515/cclm-2021-0283,yes,
+70,"Ca19-9, U/mL",CA 19-9,ca-19-9,serum,Roche Cobas e801 (tumour markers/hormones),[36],10.1515/cclm-2021-0283,yes,
+71,"Cyfra 21-1, μg/L",CYFRA 21-1,,serum,Roche Cobas e801 (tumour markers/hormones),[36],10.1515/cclm-2021-0283,yes,
+72,"HE4, pmol/L",Human epididymis protein 4 (HE4),,serum,Roche Cobas e801 (tumour markers/hormones),[36],10.1515/cclm-2021-0283,yes,Women only.
+73,"AFP, µg/L",Alpha-fetoprotein (AFP),afp,serum,Roche Cobas e801 (tumour markers/hormones),[36],10.1515/cclm-2021-0283,yes,Summary report text names AFP among measurands with sex-related CVI differences.
+74,"Ca125, U/mL",CA 125,ca-125,serum,Roche Cobas e801 (tumour markers/hormones),[36],10.1515/cclm-2021-0283,yes,Women only. The printed mean CI (11.7–11.8) does not contain the mean 11.4; reproduced as printed.
+75,"APTT, s",Activated partial thromboplastin time (APTT),aptt,citrated plasma,Werfen ACL Top 750 (coagulation),[37],10.1093/clinchem/hvab100,yes,"Bayesian model, not CV-ANOVA; CVA printed without CI. Summary report text names APTT among measurands with sex-related CVI differences."
+76,"PT, s",Prothrombin time (PT),prothrombin-time,citrated plasma,Werfen ACL Top 750 (coagulation),[37],10.1093/clinchem/hvab100,yes,"Bayesian model, not CV-ANOVA; CVA printed without CI."
+77,"AT, %",Antithrombin,antithrombin-iii,citrated plasma,Werfen ACL Top 750 (coagulation),[37],10.1093/clinchem/hvab100,yes,"Bayesian model, not CV-ANOVA; CVA printed without CI."
+78,"FVIII, %",Coagulation factor VIII,,citrated plasma,Werfen ACL Top 750 (coagulation),[37],10.1093/clinchem/hvab100,yes,"Bayesian model, not CV-ANOVA; CVA printed without CI."
+79,"Fib, g/L",Fibrinogen,fibrinogen,citrated plasma,Werfen ACL Top 750 (coagulation),[37],10.1093/clinchem/hvab100,yes,"Bayesian model, not CV-ANOVA; CVA printed without CI."
+80,"DD, μg/L (FEU)",D-dimer,d-dimer,citrated plasma,Werfen ACL Top 750 (coagulation),[37],10.1093/clinchem/hvab100,no,Excluded from the web table: footnote c of the source says an average CVI is not representative for the general population because of heterogeneity of the D-dimer data.
+81,"Prot C, %",Protein C,protein-c,citrated plasma,Werfen ACL Top 750 (coagulation),[37],10.1093/clinchem/hvab100,yes,"Bayesian model, not CV-ANOVA; CVA printed without CI. Summary report text names protein C among measurands with sex-related CVI differences."
+82,"Free prot S, %",Protein S (free),protein-s,citrated plasma,Werfen ACL Top 750 (coagulation),[37],10.1093/clinchem/hvab100,yes,"Bayesian model, not CV-ANOVA; CVA printed without CI. Summary report text names free protein S among measurands with sex-related CVI differences."

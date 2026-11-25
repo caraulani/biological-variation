@@ -1,0 +1,3 @@
+key,row_id,reason
+troponin-i-hs,eubivas_t2_49,"Override: EuBIVAS whole-cohort estimate with the Siemens high-sensitivity assay, a clinical assay, preferred over the Singulex research assay (larger n) because the clinical assay is what people get"
+pth,ercan_pth_01,"Next-best source; the EuBIVAS PTH 1-84 row is not shipped because of its source licence. Single small study (20 adults, weekly for 10 weeks, intact PTH by a second-generation assay, graded BIVAC C by EuBIVAS authors); CVI likely higher than for biointact PTH"

@@ -1,0 +1,2308 @@
+{
+ "version": "1.0.0",
+ "generated": "2026-11-25",
+ "analytes": [
+  {
+   "slug": "afp",
+   "marker_slug": "afp",
+   "name": "Alpha-fetoprotein (AFP)",
+   "specimen": "serum",
+   "cvi": 4.1,
+   "cvi_ci": [
+    3.9,
+    4.4
+   ],
+   "cvg": 41.9,
+   "cva_study": 3.1,
+   "n_subjects": 81,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 73 ('AFP, µg/L'), pp. 509-511; primary paper ref [36] (doi 10.1515/cclm-2021-0283)"
+  },
+  {
+   "slug": "albumin-serum",
+   "marker_slug": "albumin-serum",
+   "name": "Albumin",
+   "specimen": "serum",
+   "cvi": 2.5,
+   "cvi_ci": [
+    2.4,
+    2.7
+   ],
+   "cvg": 5.1,
+   "cva_study": 1.5,
+   "n_subjects": 90,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 33 ('Alb, g/L'), pp. 509-511; primary paper ref [27] (doi 10.1373/clinchem.2019.304618)"
+  },
+  {
+   "slug": "alp",
+   "marker_slug": "alp",
+   "name": "Alkaline phosphatase (ALP)",
+   "specimen": "serum",
+   "cvi": 5.3,
+   "cvi_ci": [
+    5.0,
+    5.7
+   ],
+   "cvg": 24.9,
+   "cva_study": 2.8,
+   "n_subjects": 85,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 4 ('ALP, U/L'), pp. 509-511; primary paper ref [22] (doi 10.1373/clinchem.2016.269811)"
+  },
+  {
+   "slug": "alpha-1-antitrypsin",
+   "marker_slug": "alpha-1-antitrypsin",
+   "name": "Alpha-1-antitrypsin",
+   "specimen": "serum",
+   "cvi": 3.8,
+   "cvi_ci": [
+    3.7,
+    4.1
+   ],
+   "cvg": 10.1,
+   "cva_study": 1.38,
+   "n_subjects": 87,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 31 ('AAT, g/L'), pp. 509-511; primary paper ref [27] (doi 10.1373/clinchem.2019.304618)"
+  },
+  {
+   "slug": "alt",
+   "marker_slug": "alt",
+   "name": "Alanine aminotransferase (ALT)",
+   "specimen": "serum",
+   "cvi": 9.3,
+   "cvi_ci": [
+    8.7,
+    10.0
+   ],
+   "cvg": 28.0,
+   "cva_study": 6.7,
+   "n_subjects": 88,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 1 ('ALT, U/L'), pp. 509-511; primary paper ref [22] (doi 10.1373/clinchem.2016.269811)"
+  },
+  {
+   "slug": "amylase",
+   "marker_slug": "amylase",
+   "name": "Amylase (total)",
+   "specimen": "serum",
+   "cvi": 6.8,
+   "cvi_ci": [
+    6.5,
+    7.2
+   ],
+   "cvg": 30.4,
+   "cva_study": 1.0,
+   "n_subjects": 89,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 7 ('AMY, U/L'), pp. 509-511; primary paper ref [22] (doi 10.1373/clinchem.2016.269811)"
+  },
+  {
+   "slug": "antithrombin-iii",
+   "marker_slug": "antithrombin-iii",
+   "name": "Antithrombin",
+   "specimen": "citrated plasma",
+   "cvi": 3.5,
+   "cvi_ci": [
+    3.1,
+    4.0
+   ],
+   "cvg": 8.1,
+   "cva_study": 5.4,
+   "n_subjects": 92,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 77 ('AT, %'), pp. 509-511; primary paper ref [37] (doi 10.1093/clinchem/hvab100)"
+  },
+  {
+   "slug": "apolipoprotein-a1",
+   "marker_slug": "apolipoprotein-a1",
+   "name": "Apolipoprotein A1",
+   "specimen": "serum",
+   "cvi": 4.8,
+   "cvi_ci": [
+    4.5,
+    5.1
+   ],
+   "cvg": 17.3,
+   "cva_study": 1.7,
+   "n_subjects": 90,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 47 ('ApoA1, μmol/L'), pp. 509-511; primary paper ref [31] (doi 10.1093/clinchem/hvaa054)"
+  },
+  {
+   "slug": "apolipoprotein-b",
+   "marker_slug": "apolipoprotein-b",
+   "name": "Apolipoprotein B",
+   "specimen": "serum",
+   "cvi": 6.7,
+   "cvi_ci": [
+    6.4,
+    7.0
+   ],
+   "cvg": 25.9,
+   "cva_study": 1.5,
+   "n_subjects": 90,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 48 ('ApoB, μmol/L'), pp. 509-511; primary paper ref [31] (doi 10.1093/clinchem/hvaa054)"
+  },
+  {
+   "slug": "aptt",
+   "marker_slug": "aptt",
+   "name": "Activated partial thromboplastin time (APTT)",
+   "specimen": "citrated plasma",
+   "cvi": 2.9,
+   "cvi_ci": [
+    2.5,
+    3.3
+   ],
+   "cvg": 7.2,
+   "cva_study": 3.7,
+   "n_subjects": 92,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 75 ('APTT, s'), pp. 509-511; primary paper ref [37] (doi 10.1093/clinchem/hvab100)"
+  },
+  {
+   "slug": "ast",
+   "marker_slug": "ast",
+   "name": "Aspartate aminotransferase (AST)",
+   "specimen": "serum",
+   "cvi": 9.5,
+   "cvi_ci": [
+    9.0,
+    10.2
+   ],
+   "cvg": 20.3,
+   "cva_study": 5.5,
+   "n_subjects": 90,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 2 ('AST, U/L'), pp. 509-511; primary paper ref [22] (doi 10.1373/clinchem.2016.269811)"
+  },
+  {
+   "slug": "basophils-absolute",
+   "marker_slug": "basophils-absolute",
+   "name": "Basophil count",
+   "specimen": "whole blood (EDTA)",
+   "cvi": 11.34,
+   "cvi_ci": [
+    11.21,
+    32.0
+   ],
+   "cvg": 25.07,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant (grade A-C) studies; healthy individuals aged 18-75 years; within-day estimates excluded",
+   "doi": "10.1515/cclm-2019-0658",
+   "source_label": "Coskun A, et al. Clin Chem Lab Med 2020;58:25-32 (haematology meta-analysis)",
+   "location": "Table 2, p. 28"
+  },
+  {
+   "slug": "beta-2-microglobulin",
+   "marker_slug": "beta-2-microglobulin",
+   "name": "Beta-2-microglobulin",
+   "specimen": "serum",
+   "cvi": 4.0,
+   "cvi_ci": [
+    3.8,
+    4.2
+   ],
+   "cvg": 11.2,
+   "cva_study": 2.21,
+   "n_subjects": 89,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 34 ('β2M, nmol/L'), pp. 509-511; primary paper ref [27] (doi 10.1373/clinchem.2019.304618)"
+  },
+  {
+   "slug": "ca-125",
+   "marker_slug": "ca-125",
+   "name": "CA 125",
+   "specimen": "serum",
+   "cvi": 8.6,
+   "cvi_ci": [
+    8.0,
+    9.3
+   ],
+   "cvg": 41.1,
+   "cva_study": 2.3,
+   "n_subjects": 48,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years); this measurand: females only",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 74 ('Ca125, U/mL'), pp. 509-511; primary paper ref [36] (doi 10.1515/cclm-2021-0283)"
+  },
+  {
+   "slug": "ca-15-3",
+   "marker_slug": "ca-15-3",
+   "name": "CA 15-3",
+   "specimen": "serum",
+   "cvi": 4.4,
+   "cvi_ci": [
+    4.1,
+    4.6
+   ],
+   "cvg": 36.8,
+   "cva_study": 2.2,
+   "n_subjects": 81,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 68 ('Ca15-3, U/mL'), pp. 509-511; primary paper ref [36] (doi 10.1515/cclm-2021-0283)"
+  },
+  {
+   "slug": "ca-19-9",
+   "marker_slug": "ca-19-9",
+   "name": "CA 19-9",
+   "specimen": "serum",
+   "cvi": 4.0,
+   "cvi_ci": [
+    3.7,
+    4.2
+   ],
+   "cvg": 56.0,
+   "cva_study": 2.3,
+   "n_subjects": 74,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 70 ('Ca19-9, U/mL'), pp. 509-511; primary paper ref [36] (doi 10.1515/cclm-2021-0283)"
+  },
+  {
+   "slug": "calcium-total",
+   "marker_slug": "calcium-total",
+   "name": "Calcium (total)",
+   "specimen": "serum",
+   "cvi": 1.81,
+   "cvi_ci": [
+    1.72,
+    1.92
+   ],
+   "cvg": 2.73,
+   "cva_study": 0.85,
+   "n_subjects": 91,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 13 ('Ca, mmol/L'), pp. 509-511; primary paper ref [23] (doi 10.1373/clinchem.2018.288415)"
+  },
+  {
+   "slug": "cea",
+   "marker_slug": "cea",
+   "name": "Carcinoembryonic antigen (CEA)",
+   "specimen": "serum",
+   "cvi": 6.3,
+   "cvi_ci": [
+    6.0,
+    6.7
+   ],
+   "cvg": 59.8,
+   "cva_study": 2.0,
+   "n_subjects": 89,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 69 ('CEA, µg/L'), pp. 509-511; primary paper ref [36] (doi 10.1515/cclm-2021-0283)"
+  },
+  {
+   "slug": "ceruloplasmin",
+   "marker_slug": "ceruloplasmin",
+   "name": "Ceruloplasmin",
+   "specimen": "serum",
+   "cvi": 4.9,
+   "cvi_ci": [
+    4.7,
+    5.3
+   ],
+   "cvg": 15.2,
+   "cva_study": 2.07,
+   "n_subjects": 85,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 37 ('Cer, g/L'), pp. 509-511; primary paper ref [27] (doi 10.1373/clinchem.2019.304618)"
+  },
+  {
+   "slug": "chloride-serum",
+   "marker_slug": "chloride-serum",
+   "name": "Chloride",
+   "specimen": "serum",
+   "cvi": 0.98,
+   "cvi_ci": [
+    0.93,
+    1.04
+   ],
+   "cvg": 1.34,
+   "cva_study": 0.4,
+   "n_subjects": 91,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 12 ('Cl, mmol/L'), pp. 509-511; primary paper ref [23] (doi 10.1373/clinchem.2018.288415)"
+  },
+  {
+   "slug": "ck-total",
+   "marker_slug": "ck-total",
+   "name": "Creatine kinase (CK)",
+   "specimen": "serum",
+   "cvi": 14.5,
+   "cvi_ci": [
+    13.8,
+    15.4
+   ],
+   "cvg": 37.9,
+   "cva_study": 0.9,
+   "n_subjects": 84,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 6 ('CK, U/L'), pp. 509-511; primary paper ref [22] (doi 10.1373/clinchem.2016.269811)"
+  },
+  {
+   "slug": "complement-c3",
+   "marker_slug": "complement-c3",
+   "name": "Complement C3",
+   "specimen": "serum",
+   "cvi": 4.6,
+   "cvi_ci": [
+    4.4,
+    4.9
+   ],
+   "cvg": 15.2,
+   "cva_study": 1.89,
+   "n_subjects": 86,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 35 ('C3, g/L'), pp. 509-511; primary paper ref [27] (doi 10.1373/clinchem.2019.304618)"
+  },
+  {
+   "slug": "complement-c4",
+   "marker_slug": "complement-c4",
+   "name": "Complement C4",
+   "specimen": "serum",
+   "cvi": 6.9,
+   "cvi_ci": [
+    6.5,
+    7.3
+   ],
+   "cvg": 24.5,
+   "cva_study": 2.34,
+   "n_subjects": 87,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 36 ('C4, g/L'), pp. 509-511; primary paper ref [27] (doi 10.1373/clinchem.2019.304618)"
+  },
+  {
+   "slug": "copper",
+   "marker_slug": "copper",
+   "name": "Copper",
+   "specimen": "serum",
+   "cvi": 7.8,
+   "cvi_ci": [
+    7.3,
+    8.3
+   ],
+   "cvg": 14.7,
+   "cva_study": 2.2,
+   "n_subjects": 68,
+   "population": "EuBIVAS subset: 68 healthy adults",
+   "doi": "10.1515/cclm-2021-0886",
+   "source_label": "Coskun A, et al. Clin Chem Lab Med 2022 (EuBIVAS zinc, copper, selenium)",
+   "location": "Table 2, p. 6"
+  },
+  {
+   "slug": "cortisol-am",
+   "marker_slug": "cortisol-am",
+   "name": "Cortisol (morning)",
+   "specimen": "serum",
+   "cvi": 15.5,
+   "cvi_ci": [
+    14.8,
+    16.4
+   ],
+   "cvg": 20.6,
+   "cva_study": 3.6,
+   "n_subjects": 91,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 57 ('Cort, nmol/L'), pp. 509-511; primary paper ref [32] (doi 10.1016/j.cca.2020.06.038)"
+  },
+  {
+   "slug": "creatinine-serum",
+   "marker_slug": "creatinine-serum",
+   "name": "Creatinine (enzymatic method)",
+   "specimen": "serum",
+   "cvi": 4.4,
+   "cvi_ci": [
+    4.2,
+    4.7
+   ],
+   "cvg": 17.1,
+   "cva_study": 1.1,
+   "n_subjects": 91,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 27 ('Crea Enz, μmol/L'), pp. 509-511; primary paper ref [24] (doi 10.1373/clinchem.2017.275115)"
+  },
+  {
+   "slug": "crp",
+   "marker_slug": "crp",
+   "name": "C-reactive protein",
+   "specimen": "serum",
+   "cvi": 29.4,
+   "cvi_ci": [
+    27.6,
+    31.1
+   ],
+   "cvg": 87.0,
+   "cva_study": 11.1,
+   "n_subjects": 87,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 45 ('CRP, mg/L'), pp. 509-511; primary paper ref [27] (doi 10.1373/clinchem.2019.304618)"
+  },
+  {
+   "slug": "hs-crp",
+   "marker_slug": "hs-crp",
+   "name": "C-reactive protein",
+   "specimen": "serum",
+   "cvi": 29.4,
+   "cvi_ci": [
+    27.6,
+    31.1
+   ],
+   "cvg": 87.0,
+   "cva_study": 11.1,
+   "n_subjects": 87,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 45 ('CRP, mg/L'), pp. 509-511; primary paper ref [27] (doi 10.1373/clinchem.2019.304618)"
+  },
+  {
+   "slug": "ctx",
+   "marker_slug": "ctx",
+   "name": "Beta-CTX (C-terminal telopeptide of type I collagen)",
+   "specimen": "serum",
+   "cvi": 15.1,
+   "cvi_ci": [
+    14.4,
+    16.0
+   ],
+   "cvg": 45.9,
+   "cva_study": 5.0,
+   "n_subjects": 91,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 55 ('β-CTX, ng/L'), pp. 509-511; primary paper ref [30] (doi 10.1007/s00198-020-05362-8)"
+  },
+  {
+   "slug": "cystatin-c",
+   "marker_slug": "cystatin-c",
+   "name": "Cystatin C",
+   "specimen": "serum",
+   "cvi": 3.9,
+   "cvi_ci": [
+    3.6,
+    4.1
+   ],
+   "cvg": 12.0,
+   "cva_study": 2.54,
+   "n_subjects": 90,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 38 ('CysC, mg/L'), pp. 509-511; primary paper ref [27] (doi 10.1373/clinchem.2019.304618)"
+  },
+  {
+   "slug": "dhea-s",
+   "marker_slug": "dhea-s",
+   "name": "Dehydroepiandrosterone sulfate (DHEA-S)",
+   "specimen": "serum",
+   "cvi": 8.55,
+   "cvi_ci": [
+    7.9,
+    9.3
+   ],
+   "cvg": 37.64,
+   "cva_study": 3.38,
+   "n_subjects": 38,
+   "population": "EuBIVAS: healthy men, 6 European centres",
+   "doi": "10.1016/j.cca.2024.117806",
+   "source_label": "Itkonen O, et al. Clin Chim Acta 2024;555:117806 (EuBIVAS sex hormones in men)",
+   "location": "Table 1, p. 5"
+  },
+  {
+   "slug": "direct-bilirubin",
+   "marker_slug": "direct-bilirubin",
+   "name": "Direct bilirubin",
+   "specimen": "serum",
+   "cvi": 20.9,
+   "cvi_ci": [
+    19.8,
+    22.0
+   ],
+   "cvg": 31.1,
+   "cva_study": 6.05,
+   "n_subjects": 90,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 26 ('D Bil, μmol/L'), pp. 509-511; primary paper ref [23] (doi 10.1373/clinchem.2018.288415)"
+  },
+  {
+   "slug": "eosinophils-absolute",
+   "marker_slug": "eosinophils-absolute",
+   "name": "Eosinophil count",
+   "specimen": "whole blood (EDTA)",
+   "cvi": 14.38,
+   "cvi_ci": [
+    12.52,
+    20.8
+   ],
+   "cvg": 64.25,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant (grade A-C) studies; healthy individuals aged 18-75 years; within-day estimates excluded",
+   "doi": "10.1515/cclm-2019-0658",
+   "source_label": "Coskun A, et al. Clin Chem Lab Med 2020;58:25-32 (haematology meta-analysis)",
+   "location": "Table 2, p. 28"
+  },
+  {
+   "slug": "fasting-insulin",
+   "marker_slug": "fasting-insulin",
+   "name": "Insulin (fasting)",
+   "specimen": "serum",
+   "cvi": 25.3,
+   "cvi_ci": [
+    24.0,
+    26.6
+   ],
+   "cvg": 33.4,
+   "cva_study": 3.1,
+   "n_subjects": 90,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 58 ('INS, mU/L'), pp. 509-511; primary paper ref [33] (doi 10.1515/cclm-2020-1490)"
+  },
+  {
+   "slug": "fibrinogen",
+   "marker_slug": "fibrinogen",
+   "name": "Fibrinogen",
+   "specimen": "citrated plasma",
+   "cvi": 10.2,
+   "cvi_ci": [
+    8.9,
+    11.7
+   ],
+   "cvg": 17.3,
+   "cva_study": 4.7,
+   "n_subjects": 92,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 79 ('Fib, g/L'), pp. 509-511; primary paper ref [37] (doi 10.1093/clinchem/hvab100)"
+  },
+  {
+   "slug": "free-t3",
+   "marker_slug": "free-t3",
+   "name": "Free triiodothyronine (FT3)",
+   "specimen": "serum",
+   "cvi": 5.0,
+   "cvi_ci": [
+    4.8,
+    5.3
+   ],
+   "cvg": 8.0,
+   "cva_study": 1.77,
+   "n_subjects": 86,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 60 ('FT3, pmol/L'), pp. 509-511; primary paper ref [35] (doi 10.1515/cclm-2020-1885)"
+  },
+  {
+   "slug": "free-t4",
+   "marker_slug": "free-t4",
+   "name": "Free thyroxine (FT4)",
+   "specimen": "serum",
+   "cvi": 4.8,
+   "cvi_ci": [
+    4.5,
+    5.0
+   ],
+   "cvg": 7.5,
+   "cva_study": 1.71,
+   "n_subjects": 86,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 61 ('FT4, pmol/L'), pp. 509-511; primary paper ref [35] (doi 10.1515/cclm-2020-1885)"
+  },
+  {
+   "slug": "fsh",
+   "marker_slug": "fsh",
+   "name": "Follicle-stimulating hormone (FSH)",
+   "specimen": "serum",
+   "cvi": 8.05,
+   "cvi_ci": [
+    7.5,
+    8.7
+   ],
+   "cvg": 58.88,
+   "cva_study": 2.2,
+   "n_subjects": 38,
+   "population": "EuBIVAS: healthy men, 6 European centres",
+   "doi": "10.1016/j.cca.2024.117806",
+   "source_label": "Itkonen O, et al. Clin Chim Acta 2024;555:117806 (EuBIVAS sex hormones in men)",
+   "location": "Table 1, p. 5"
+  },
+  {
+   "slug": "ggt",
+   "marker_slug": "ggt",
+   "name": "Gamma-glutamyl transferase (GGT)",
+   "specimen": "serum",
+   "cvi": 8.9,
+   "cvi_ci": [
+    8.1,
+    9.7
+   ],
+   "cvg": 45.1,
+   "cva_study": 8.7,
+   "n_subjects": 87,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 3 ('GGT, U/L'), pp. 509-511; primary paper ref [22] (doi 10.1373/clinchem.2016.269811)"
+  },
+  {
+   "slug": "glucose-fasting",
+   "marker_slug": "glucose-fasting",
+   "name": "Glucose (fasting)",
+   "specimen": "serum",
+   "cvi": 4.7,
+   "cvi_ci": [
+    4.4,
+    4.9
+   ],
+   "cvg": 8.1,
+   "cva_study": 0.58,
+   "n_subjects": 89,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 21 ('Glu, mmol/L'), pp. 509-511; primary paper ref [23] (doi 10.1373/clinchem.2018.288415)"
+  },
+  {
+   "slug": "haptoglobin",
+   "marker_slug": "haptoglobin",
+   "name": "Haptoglobin",
+   "specimen": "serum",
+   "cvi": 7.4,
+   "cvi_ci": [
+    6.9,
+    7.8
+   ],
+   "cvg": 39.4,
+   "cva_study": 2.23,
+   "n_subjects": 82,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 39 ('Hapto, g/L'), pp. 509-511; primary paper ref [27] (doi 10.1373/clinchem.2019.304618)"
+  },
+  {
+   "slug": "hba1c",
+   "marker_slug": "hba1c",
+   "name": "Glycated haemoglobin (HbA1c)",
+   "specimen": "whole blood (HbA1c); serum or plasma (glucose, glycated albumin)",
+   "cvi": 1.2,
+   "cvi_ci": [
+    0.3,
+    2.5
+   ],
+   "cvg": 5.4,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant studies (this review plus a previous systematic review)",
+   "doi": "10.1515/almed-2020-0029",
+   "source_label": "Ricos C, et al. Adv Lab Med 2020 (glucose, HbA1c, glycated albumin meta-analysis)",
+   "location": "Table 3"
+  },
+  {
+   "slug": "hdl-cholesterol",
+   "marker_slug": "hdl-cholesterol",
+   "name": "HDL cholesterol",
+   "specimen": "serum",
+   "cvi": 5.67,
+   "cvi_ci": [
+    5.41,
+    5.99
+   ],
+   "cvg": 25.1,
+   "cva_study": 0.56,
+   "n_subjects": 90,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 17 ('HDL Chol, mmol/L'), pp. 509-511; primary paper ref [23] (doi 10.1373/clinchem.2018.288415)"
+  },
+  {
+   "slug": "hematocrit",
+   "marker_slug": "hematocrit",
+   "name": "Haematocrit",
+   "specimen": "whole blood (EDTA)",
+   "cvi": 2.71,
+   "cvi_ci": [
+    2.24,
+    3.4
+   ],
+   "cvg": 5.45,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant (grade A-C) studies; healthy individuals aged 18-75 years; within-day estimates excluded",
+   "doi": "10.1515/cclm-2019-0658",
+   "source_label": "Coskun A, et al. Clin Chem Lab Med 2020;58:25-32 (haematology meta-analysis)",
+   "location": "Table 2, p. 28"
+  },
+  {
+   "slug": "hemoglobin",
+   "marker_slug": "hemoglobin",
+   "name": "Haemoglobin",
+   "specimen": "whole blood (EDTA)",
+   "cvi": 2.71,
+   "cvi_ci": [
+    1.72,
+    2.8
+   ],
+   "cvg": 6.07,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant (grade A-C) studies; healthy individuals aged 18-75 years; within-day estimates excluded",
+   "doi": "10.1515/cclm-2019-0658",
+   "source_label": "Coskun A, et al. Clin Chem Lab Med 2020;58:25-32 (haematology meta-analysis)",
+   "location": "Table 2, p. 28"
+  },
+  {
+   "slug": "homa-ir",
+   "marker_slug": "homa-ir",
+   "name": "HOMA-IR (calculated from fasting glucose and insulin)",
+   "specimen": "serum/plasma (calculated index)",
+   "cvi": 26.7,
+   "cvi_ci": [
+    25.5,
+    28.3
+   ],
+   "cvg": 38.5,
+   "cva_study": null,
+   "n_subjects": 90,
+   "population": "EuBIVAS: healthy adults, 6 European centres",
+   "doi": "10.1515/cclm-2024-0672",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2025 (EuBIVAS insulin resistance markers)",
+   "location": "Abstract (CVI with CI) and Table 1 'All subjects' row (CVG), accepted manuscript"
+  },
+  {
+   "slug": "iga",
+   "marker_slug": "iga",
+   "name": "Immunoglobulin A",
+   "specimen": "serum",
+   "cvi": 3.3,
+   "cvi_ci": [
+    3.1,
+    3.4
+   ],
+   "cvg": 39.4,
+   "cva_study": 1.49,
+   "n_subjects": 88,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 40 ('IgA, g/L'), pp. 509-511; primary paper ref [27] (doi 10.1373/clinchem.2019.304618)"
+  },
+  {
+   "slug": "igg",
+   "marker_slug": "igg",
+   "name": "Immunoglobulin G",
+   "specimen": "serum",
+   "cvi": 2.8,
+   "cvi_ci": [
+    2.7,
+    3.0
+   ],
+   "cvg": 19.7,
+   "cva_study": 1.28,
+   "n_subjects": 87,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 41 ('IgG, g/L'), pp. 509-511; primary paper ref [27] (doi 10.1373/clinchem.2019.304618)"
+  },
+  {
+   "slug": "igm",
+   "marker_slug": "igm",
+   "name": "Immunoglobulin M",
+   "specimen": "serum",
+   "cvi": 3.9,
+   "cvi_ci": [
+    3.6,
+    4.1
+   ],
+   "cvg": 48.6,
+   "cva_study": 2.2,
+   "n_subjects": 85,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 42 ('IgM, g/L'), pp. 509-511; primary paper ref [27] (doi 10.1373/clinchem.2019.304618)"
+  },
+  {
+   "slug": "inr",
+   "marker_slug": "inr",
+   "name": "Prothrombin time (INR)",
+   "specimen": "citrated plasma",
+   "cvi": 2.5,
+   "cvi_ci": [
+    2.3,
+    3.0
+   ],
+   "cvg": 4.6,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant studies in healthy, non-pregnant adults aged 18-75 years",
+   "doi": "10.1515/cclm-2022-1207",
+   "source_label": "Hollestelle MJ, et al. Clin Chem Lab Med 2023 (coagulation and fibrinolysis meta-analysis)",
+   "location": "Table 2"
+  },
+  {
+   "slug": "ldh",
+   "marker_slug": "ldh",
+   "name": "Lactate dehydrogenase (LDH)",
+   "specimen": "serum",
+   "cvi": 5.2,
+   "cvi_ci": [
+    5.0,
+    5.5
+   ],
+   "cvg": 12.6,
+   "cva_study": 1.2,
+   "n_subjects": 89,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 5 ('LDH, U/L'), pp. 509-511; primary paper ref [22] (doi 10.1373/clinchem.2016.269811)"
+  },
+  {
+   "slug": "ldl-cholesterol",
+   "marker_slug": "ldl-cholesterol",
+   "name": "LDL cholesterol",
+   "specimen": "serum",
+   "cvi": 8.46,
+   "cvi_ci": [
+    8.05,
+    8.94
+   ],
+   "cvg": 28.2,
+   "cva_study": 1.77,
+   "n_subjects": 88,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 18 ('LDL Chol, mmol/L'), pp. 509-511; primary paper ref [23] (doi 10.1373/clinchem.2018.288415)"
+  },
+  {
+   "slug": "lh",
+   "marker_slug": "lh",
+   "name": "Luteinizing hormone (LH)",
+   "specimen": "serum",
+   "cvi": 21.86,
+   "cvi_ci": [
+    20.2,
+    23.6
+   ],
+   "cvg": 33.15,
+   "cva_study": 3.35,
+   "n_subjects": 38,
+   "population": "EuBIVAS: healthy men, 6 European centres",
+   "doi": "10.1016/j.cca.2024.117806",
+   "source_label": "Itkonen O, et al. Clin Chim Acta 2024;555:117806 (EuBIVAS sex hormones in men)",
+   "location": "Table 1, p. 5"
+  },
+  {
+   "slug": "lipase",
+   "marker_slug": "lipase",
+   "name": "Lipase",
+   "specimen": "serum",
+   "cvi": 7.7,
+   "cvi_ci": [
+    7.2,
+    8.3
+   ],
+   "cvg": 23.8,
+   "cva_study": 6.4,
+   "n_subjects": 87,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 9 ('LIP, U/L'), pp. 509-511; primary paper ref [22] (doi 10.1373/clinchem.2016.269811)"
+  },
+  {
+   "slug": "lipoprotein-a",
+   "marker_slug": "lipoprotein-a",
+   "name": "Lipoprotein(a)",
+   "specimen": "serum",
+   "cvi": 8.9,
+   "cvi_ci": [
+    8.3,
+    9.5
+   ],
+   "cvg": null,
+   "cva_study": 3.1,
+   "n_subjects": 66,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 46 ('Lp(a), nmol/L'), pp. 509-511; primary paper ref [31] (doi 10.1093/clinchem/hvaa054)"
+  },
+  {
+   "slug": "lymphocytes-absolute",
+   "marker_slug": "lymphocytes-absolute",
+   "name": "Lymphocyte count",
+   "specimen": "whole blood (EDTA)",
+   "cvi": 10.13,
+   "cvi_ci": [
+    9.45,
+    13.59
+   ],
+   "cvg": 23.87,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant (grade A-C) studies; healthy individuals aged 18-75 years; within-day estimates excluded",
+   "doi": "10.1515/cclm-2019-0658",
+   "source_label": "Coskun A, et al. Clin Chem Lab Med 2020;58:25-32 (haematology meta-analysis)",
+   "location": "Table 2, p. 28"
+  },
+  {
+   "slug": "magnesium-serum",
+   "marker_slug": "magnesium-serum",
+   "name": "Magnesium",
+   "specimen": "serum",
+   "cvi": 2.88,
+   "cvi_ci": [
+    2.68,
+    3.09
+   ],
+   "cvg": 5.79,
+   "cva_study": 2.48,
+   "n_subjects": 91,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 14 ('Mg, mmol/L'), pp. 509-511; primary paper ref [23] (doi 10.1373/clinchem.2018.288415)"
+  },
+  {
+   "slug": "mch",
+   "marker_slug": "mch",
+   "name": "Mean corpuscular haemoglobin (MCH)",
+   "specimen": "whole blood (EDTA)",
+   "cvi": 0.85,
+   "cvi_ci": [
+    0.24,
+    1.6
+   ],
+   "cvg": 4.3,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant (grade A-C) studies; healthy individuals aged 18-75 years; within-day estimates excluded",
+   "doi": "10.1515/cclm-2019-0658",
+   "source_label": "Coskun A, et al. Clin Chem Lab Med 2020;58:25-32 (haematology meta-analysis)",
+   "location": "Table 2, p. 28"
+  },
+  {
+   "slug": "mchc",
+   "marker_slug": "mchc",
+   "name": "Mean corpuscular haemoglobin concentration (MCHC)",
+   "specimen": "whole blood (EDTA)",
+   "cvi": 0.95,
+   "cvi_ci": [
+    0.6,
+    1.1
+   ],
+   "cvg": 1.49,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant (grade A-C) studies; healthy individuals aged 18-75 years; within-day estimates excluded",
+   "doi": "10.1515/cclm-2019-0658",
+   "source_label": "Coskun A, et al. Clin Chem Lab Med 2020;58:25-32 (haematology meta-analysis)",
+   "location": "Table 2, p. 28"
+  },
+  {
+   "slug": "mcv",
+   "marker_slug": "mcv",
+   "name": "Mean corpuscular volume (MCV)",
+   "specimen": "whole blood (EDTA)",
+   "cvi": 0.75,
+   "cvi_ci": [
+    0.64,
+    1.17
+   ],
+   "cvg": 3.78,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant (grade A-C) studies; healthy individuals aged 18-75 years; within-day estimates excluded",
+   "doi": "10.1515/cclm-2019-0658",
+   "source_label": "Coskun A, et al. Clin Chem Lab Med 2020;58:25-32 (haematology meta-analysis)",
+   "location": "Table 2, p. 28"
+  },
+  {
+   "slug": "monocytes-absolute",
+   "marker_slug": "monocytes-absolute",
+   "name": "Monocyte count",
+   "specimen": "whole blood (EDTA)",
+   "cvi": 12.85,
+   "cvi_ci": [
+    11.79,
+    16.4
+   ],
+   "cvg": 18.3,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant (grade A-C) studies; healthy individuals aged 18-75 years; within-day estimates excluded",
+   "doi": "10.1515/cclm-2019-0658",
+   "source_label": "Coskun A, et al. Clin Chem Lab Med 2020;58:25-32 (haematology meta-analysis)",
+   "location": "Table 2, p. 28"
+  },
+  {
+   "slug": "mpv",
+   "marker_slug": "mpv",
+   "name": "Mean platelet volume (MPV)",
+   "specimen": "whole blood (EDTA)",
+   "cvi": 2.02,
+   "cvi_ci": [
+    1.55,
+    4.3
+   ],
+   "cvg": 6.96,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant (grade A-C) studies; healthy individuals aged 18-75 years; within-day estimates excluded",
+   "doi": "10.1515/cclm-2019-0658",
+   "source_label": "Coskun A, et al. Clin Chem Lab Med 2020;58:25-32 (haematology meta-analysis)",
+   "location": "Table 2, p. 28"
+  },
+  {
+   "slug": "neutrophils-absolute",
+   "marker_slug": "neutrophils-absolute",
+   "name": "Neutrophil count",
+   "specimen": "whole blood (EDTA)",
+   "cvi": 13.61,
+   "cvi_ci": [
+    6.3,
+    20.37
+   ],
+   "cvg": 21.16,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant (grade A-C) studies; healthy individuals aged 18-75 years; within-day estimates excluded",
+   "doi": "10.1515/cclm-2019-0658",
+   "source_label": "Coskun A, et al. Clin Chem Lab Med 2020;58:25-32 (haematology meta-analysis)",
+   "location": "Table 2, p. 28"
+  },
+  {
+   "slug": "non-hdl-cholesterol",
+   "marker_slug": "non-hdl-cholesterol",
+   "name": "Non-HDL cholesterol",
+   "specimen": "serum",
+   "cvi": 6.88,
+   "cvi_ci": [
+    6.53,
+    7.27
+   ],
+   "cvg": 26.4,
+   "cva_study": 1.47,
+   "n_subjects": 88,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 19 ('Non-HDL Chol, mmol/L'), pp. 509-511; primary paper ref [23] (doi 10.1373/clinchem.2018.288415)"
+  },
+  {
+   "slug": "osteocalcin",
+   "marker_slug": "osteocalcin",
+   "name": "Osteocalcin",
+   "specimen": "serum",
+   "cvi": 8.9,
+   "cvi_ci": [
+    8.5,
+    9.4
+   ],
+   "cvg": 32.6,
+   "cva_study": 2.3,
+   "n_subjects": 91,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 52 ('OC, μg/L'), pp. 509-511; primary paper ref [30] (doi 10.1007/s00198-020-05362-8)"
+  },
+  {
+   "slug": "p1np",
+   "marker_slug": "p1np",
+   "name": "Procollagen type 1 N-terminal propeptide (PINP)",
+   "specimen": "serum",
+   "cvi": 8.8,
+   "cvi_ci": [
+    8.4,
+    9.3
+   ],
+   "cvg": 35.2,
+   "cva_study": 3.7,
+   "n_subjects": 91,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 54 ('PINP, μg/L'), pp. 509-511; primary paper ref [30] (doi 10.1007/s00198-020-05362-8)"
+  },
+  {
+   "slug": "pdw",
+   "marker_slug": "pdw",
+   "name": "Platelet distribution width (PDW)",
+   "specimen": "whole blood (EDTA)",
+   "cvi": 3.43,
+   "cvi_ci": [
+    3.1,
+    3.69
+   ],
+   "cvg": 12.31,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant (grade A-C) studies; healthy individuals aged 18-75 years; within-day estimates excluded",
+   "doi": "10.1515/cclm-2019-0658",
+   "source_label": "Coskun A, et al. Clin Chem Lab Med 2020;58:25-32 (haematology meta-analysis)",
+   "location": "Table 2, p. 28"
+  },
+  {
+   "slug": "phosphorus-serum",
+   "marker_slug": "phosphorus-serum",
+   "name": "Phosphate (inorganic)",
+   "specimen": "serum",
+   "cvi": 7.67,
+   "cvi_ci": [
+    7.24,
+    8.09
+   ],
+   "cvg": 10.5,
+   "cva_study": 2.87,
+   "n_subjects": 88,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 15 ('IP, mmol/L'), pp. 509-511; primary paper ref [23] (doi 10.1373/clinchem.2018.288415)"
+  },
+  {
+   "slug": "platelet-count",
+   "marker_slug": "platelet-count",
+   "name": "Platelet count",
+   "specimen": "whole blood (EDTA)",
+   "cvi": 7.1,
+   "cvi_ci": [
+    4.49,
+    7.69
+   ],
+   "cvg": 16.17,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant (grade A-C) studies; healthy individuals aged 18-75 years; within-day estimates excluded",
+   "doi": "10.1515/cclm-2019-0658",
+   "source_label": "Coskun A, et al. Clin Chem Lab Med 2020;58:25-32 (haematology meta-analysis)",
+   "location": "Table 2, p. 28"
+  },
+  {
+   "slug": "platelet-large-cell-ratio",
+   "marker_slug": "platelet-large-cell-ratio",
+   "name": "Platelet large cell ratio (P-LCR)",
+   "specimen": "whole blood (EDTA)",
+   "cvi": 5.7,
+   "cvi_ci": [
+    4.78,
+    6.6
+   ],
+   "cvg": 20.42,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant (grade A-C) studies; healthy individuals aged 18-75 years; within-day estimates excluded",
+   "doi": "10.1515/cclm-2019-0658",
+   "source_label": "Coskun A, et al. Clin Chem Lab Med 2020;58:25-32 (haematology meta-analysis)",
+   "location": "Table 2, p. 28"
+  },
+  {
+   "slug": "plateletcrit",
+   "marker_slug": "plateletcrit",
+   "name": "Plateletcrit",
+   "specimen": "whole blood (EDTA)",
+   "cvi": 5.94,
+   "cvi_ci": [
+    4.97,
+    11.6
+   ],
+   "cvg": 13.33,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant (grade A-C) studies; healthy individuals aged 18-75 years; within-day estimates excluded",
+   "doi": "10.1515/cclm-2019-0658",
+   "source_label": "Coskun A, et al. Clin Chem Lab Med 2020;58:25-32 (haematology meta-analysis)",
+   "location": "Table 2, p. 28"
+  },
+  {
+   "slug": "potassium-serum",
+   "marker_slug": "potassium-serum",
+   "name": "Potassium",
+   "specimen": "serum",
+   "cvi": 3.92,
+   "cvi_ci": [
+    3.73,
+    4.13
+   ],
+   "cvg": 4.08,
+   "cva_study": 0.41,
+   "n_subjects": 91,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 11 ('K, mmol/L'), pp. 509-511; primary paper ref [23] (doi 10.1373/clinchem.2018.288415)"
+  },
+  {
+   "slug": "prolactin",
+   "marker_slug": "prolactin",
+   "name": "Prolactin",
+   "specimen": "serum",
+   "cvi": 13.34,
+   "cvi_ci": [
+    12.3,
+    14.4
+   ],
+   "cvg": 39.37,
+   "cva_study": 1.2,
+   "n_subjects": 37,
+   "population": "EuBIVAS: healthy men, 6 European centres",
+   "doi": "10.1016/j.cca.2024.117806",
+   "source_label": "Itkonen O, et al. Clin Chim Acta 2024;555:117806 (EuBIVAS sex hormones in men)",
+   "location": "Table 1, p. 5"
+  },
+  {
+   "slug": "protein-c",
+   "marker_slug": "protein-c",
+   "name": "Protein C",
+   "specimen": "citrated plasma",
+   "cvi": 5.4,
+   "cvi_ci": [
+    4.9,
+    6.0
+   ],
+   "cvg": 18.6,
+   "cva_study": 2.4,
+   "n_subjects": 92,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 81 ('Prot C, %'), pp. 509-511; primary paper ref [37] (doi 10.1093/clinchem/hvab100)"
+  },
+  {
+   "slug": "protein-s",
+   "marker_slug": "protein-s",
+   "name": "Protein S (free)",
+   "specimen": "citrated plasma",
+   "cvi": 4.0,
+   "cvi_ci": [
+    3.5,
+    4.6
+   ],
+   "cvg": 16.2,
+   "cva_study": 2.0,
+   "n_subjects": 92,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 82 ('Free prot S, %'), pp. 509-511; primary paper ref [37] (doi 10.1093/clinchem/hvab100)"
+  },
+  {
+   "slug": "prothrombin-time",
+   "marker_slug": "prothrombin-time",
+   "name": "Prothrombin time (PT)",
+   "specimen": "citrated plasma",
+   "cvi": 2.6,
+   "cvi_ci": [
+    2.3,
+    2.9
+   ],
+   "cvg": 5.1,
+   "cva_study": 1.7,
+   "n_subjects": 92,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 76 ('PT, s'), pp. 509-511; primary paper ref [37] (doi 10.1093/clinchem/hvab100)"
+  },
+  {
+   "slug": "psa-free",
+   "marker_slug": "psa-free",
+   "name": "Prostate-specific antigen (free)",
+   "specimen": "serum",
+   "cvi": 7.1,
+   "cvi_ci": [
+    6.5,
+    7.7
+   ],
+   "cvg": 46.2,
+   "cva_study": 1.4,
+   "n_subjects": 35,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years); this measurand: males only",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 65 ('fPSA, µg/L'), pp. 509-511; primary paper ref [25] (doi 10.1016/j.cca.2018.07.043)"
+  },
+  {
+   "slug": "psa-free-total-ratio",
+   "marker_slug": "psa-free-total-ratio",
+   "name": "Free/total PSA ratio (% free PSA)",
+   "specimen": "serum",
+   "cvi": 5.3,
+   "cvi_ci": [
+    4.8,
+    5.8
+   ],
+   "cvg": 36.1,
+   "cva_study": 2.7,
+   "n_subjects": 34,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years); this measurand: males only",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 67 ('%free PSA%'), pp. 509-511; primary paper ref [25] (doi 10.1016/j.cca.2018.07.043)"
+  },
+  {
+   "slug": "psa-total",
+   "marker_slug": "psa-total",
+   "name": "Prostate-specific antigen (total)",
+   "specimen": "serum",
+   "cvi": 6.8,
+   "cvi_ci": [
+    6.1,
+    7.4
+   ],
+   "cvg": 42.0,
+   "cva_study": 3.3,
+   "n_subjects": 35,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years); this measurand: males only",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 64 ('TPSA, µg/L'), pp. 509-511; primary paper ref [25] (doi 10.1016/j.cca.2018.07.043)"
+  },
+  {
+   "slug": "pth",
+   "marker_slug": "pth",
+   "name": "Parathyroid hormone (intact, second-generation assay)",
+   "specimen": "serum",
+   "cvi": 21.1,
+   "cvi_ci": [
+    19.4,
+    23.2
+   ],
+   "cvg": 24.9,
+   "cva_study": 3.8,
+   "n_subjects": 20,
+   "population": "20 healthy adults in Ankara, Turkey (10 men, 10 women)",
+   "doi": "10.11613/bm.2019.030702",
+   "source_label": "Ercan M, et al. Biochem Med (Zagreb) 2019;29:030702 (PTH)",
+   "location": "Table 2, 'All group' column"
+  },
+  {
+   "slug": "rbc",
+   "marker_slug": "rbc",
+   "name": "Erythrocyte count",
+   "specimen": "whole blood (EDTA)",
+   "cvi": 2.8,
+   "cvi_ci": [
+    1.96,
+    3.07
+   ],
+   "cvg": 6.29,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant (grade A-C) studies; healthy individuals aged 18-75 years; within-day estimates excluded",
+   "doi": "10.1515/cclm-2019-0658",
+   "source_label": "Coskun A, et al. Clin Chem Lab Med 2020;58:25-32 (haematology meta-analysis)",
+   "location": "Table 2, p. 28"
+  },
+  {
+   "slug": "rdw-sd",
+   "marker_slug": "rdw-sd",
+   "name": "Red cell distribution width (RDW, fL)",
+   "specimen": "whole blood (EDTA)",
+   "cvi": 1.51,
+   "cvi_ci": [
+    1.08,
+    1.9
+   ],
+   "cvg": 4.75,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant (grade A-C) studies; healthy individuals aged 18-75 years; within-day estimates excluded",
+   "doi": "10.1515/cclm-2019-0658",
+   "source_label": "Coskun A, et al. Clin Chem Lab Med 2020;58:25-32 (haematology meta-analysis)",
+   "location": "Table 2, p. 28"
+  },
+  {
+   "slug": "reticulocyte-absolute",
+   "marker_slug": "reticulocyte-absolute",
+   "name": "Reticulocyte count",
+   "specimen": "whole blood (EDTA)",
+   "cvi": 9.74,
+   "cvi_ci": [
+    6.44,
+    11.0
+   ],
+   "cvg": 27.11,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant (grade A-C) studies; healthy individuals aged 18-75 years; within-day estimates excluded",
+   "doi": "10.1515/cclm-2019-0658",
+   "source_label": "Coskun A, et al. Clin Chem Lab Med 2020;58:25-32 (haematology meta-analysis)",
+   "location": "Table 2, p. 28"
+  },
+  {
+   "slug": "reticulocyte-hemoglobin",
+   "marker_slug": "reticulocyte-hemoglobin",
+   "name": "Reticulocyte haemoglobin equivalent (Ret-He)",
+   "specimen": "whole blood (EDTA)",
+   "cvi": 1.92,
+   "cvi_ci": [
+    0.75,
+    3.4
+   ],
+   "cvg": 3.38,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant (grade A-C) studies; healthy individuals aged 18-75 years; within-day estimates excluded",
+   "doi": "10.1515/cclm-2019-0658",
+   "source_label": "Coskun A, et al. Clin Chem Lab Med 2020;58:25-32 (haematology meta-analysis)",
+   "location": "Table 2, p. 28"
+  },
+  {
+   "slug": "selenium",
+   "marker_slug": "selenium",
+   "name": "Selenium",
+   "specimen": "serum",
+   "cvi": 7.7,
+   "cvi_ci": [
+    7.2,
+    8.2
+   ],
+   "cvg": 12.3,
+   "cva_study": 2.3,
+   "n_subjects": 68,
+   "population": "EuBIVAS subset: 68 healthy adults",
+   "doi": "10.1515/cclm-2021-0886",
+   "source_label": "Coskun A, et al. Clin Chem Lab Med 2022 (EuBIVAS zinc, copper, selenium)",
+   "location": "Table 2, p. 6"
+  },
+  {
+   "slug": "serum-iron",
+   "marker_slug": "serum-iron",
+   "name": "Iron (serum), all subjects",
+   "specimen": "serum",
+   "cvi": 28.0,
+   "cvi_ci": [
+    26.7,
+    29.6
+   ],
+   "cvg": null,
+   "cva_study": 1.9,
+   "n_subjects": 88,
+   "population": "EuBIVAS: healthy adults, 6 European centres",
+   "doi": "10.1515/cclm-2022-1091",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2023 (EuBIVAS serum iron, letter)",
+   "location": "Table 1, 'All subjects' row"
+  },
+  {
+   "slug": "sodium-serum",
+   "marker_slug": "sodium-serum",
+   "name": "Sodium",
+   "specimen": "serum",
+   "cvi": 0.53,
+   "cvi_ci": [
+    0.5,
+    0.57
+   ],
+   "cvg": 1.21,
+   "cva_study": 0.4,
+   "n_subjects": 89,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 10 ('Na, mmol/L'), pp. 509-511; primary paper ref [23] (doi 10.1373/clinchem.2018.288415)"
+  },
+  {
+   "slug": "soluble-transferrin-receptor",
+   "marker_slug": "soluble-transferrin-receptor",
+   "name": "Soluble transferrin receptor",
+   "specimen": "serum",
+   "cvi": 6.9,
+   "cvi_ci": [
+    6.5,
+    7.3
+   ],
+   "cvg": 19.1,
+   "cva_study": 4.09,
+   "n_subjects": 88,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 44 ('sTfr, mg/L'), pp. 509-511; primary paper ref [27] (doi 10.1373/clinchem.2019.304618)"
+  },
+  {
+   "slug": "testosterone-total",
+   "marker_slug": "testosterone-total",
+   "name": "Testosterone (total)",
+   "specimen": "serum",
+   "cvi": 10.2,
+   "cvi_ci": [
+    9.5,
+    11.1
+   ],
+   "cvg": 20.37,
+   "cva_study": 2.01,
+   "n_subjects": 38,
+   "population": "EuBIVAS: healthy men, 6 European centres",
+   "doi": "10.1016/j.cca.2024.117806",
+   "source_label": "Itkonen O, et al. Clin Chim Acta 2024;555:117806 (EuBIVAS sex hormones in men)",
+   "location": "Table 1, p. 5"
+  },
+  {
+   "slug": "thyroglobulin",
+   "marker_slug": "thyroglobulin",
+   "name": "Thyroglobulin",
+   "specimen": "serum",
+   "cvi": 10.3,
+   "cvi_ci": [
+    9.8,
+    10.9
+   ],
+   "cvg": 79.0,
+   "cva_study": 3.74,
+   "n_subjects": 86,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 63 ('TG, µg/L'), pp. 509-511; primary paper ref [35] (doi 10.1515/cclm-2020-1885)"
+  },
+  {
+   "slug": "thyroglobulin-antibody",
+   "marker_slug": "thyroglobulin-antibody",
+   "name": "Thyroglobulin antibodies (anti-TG)",
+   "specimen": "serum",
+   "cvi": 8.5,
+   "cvi_ci": [
+    7.0,
+    10.1
+   ],
+   "cvg": 82.0,
+   "cva_study": 9.0,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant studies performed in healthy adults",
+   "doi": "10.1515/cclm-2021-0904",
+   "source_label": "Fernandez-Calle P, et al. Clin Chem Lab Med 2022 (thyroid meta-analysis)",
+   "location": "Table 2"
+  },
+  {
+   "slug": "total-bilirubin",
+   "marker_slug": "total-bilirubin",
+   "name": "Total bilirubin",
+   "specimen": "serum",
+   "cvi": 20.9,
+   "cvi_ci": [
+    19.9,
+    22.0
+   ],
+   "cvg": 26.6,
+   "cva_study": 2.98,
+   "n_subjects": 90,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 25 ('T Bil, μmol/L'), pp. 509-511; primary paper ref [23] (doi 10.1373/clinchem.2018.288415)"
+  },
+  {
+   "slug": "total-cholesterol",
+   "marker_slug": "total-cholesterol",
+   "name": "Total cholesterol",
+   "specimen": "serum",
+   "cvi": 5.18,
+   "cvi_ci": [
+    4.92,
+    5.46
+   ],
+   "cvg": 17.4,
+   "cva_study": 0.98,
+   "n_subjects": 90,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 16 ('TC, mmol/L'), pp. 509-511; primary paper ref [23] (doi 10.1373/clinchem.2018.288415)"
+  },
+  {
+   "slug": "total-protein",
+   "marker_slug": "total-protein",
+   "name": "Total protein",
+   "specimen": "serum",
+   "cvi": 2.6,
+   "cvi_ci": [
+    2.5,
+    2.7
+   ],
+   "cvg": 4.6,
+   "cva_study": 0.97,
+   "n_subjects": 91,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 24 ('TP, g/L'), pp. 509-511; primary paper ref [23] (doi 10.1373/clinchem.2018.288415)"
+  },
+  {
+   "slug": "total-t3",
+   "marker_slug": "total-t3",
+   "name": "Total triiodothyronine (T3)",
+   "specimen": "serum",
+   "cvi": 9.6,
+   "cvi_ci": [
+    6.9,
+    10.4
+   ],
+   "cvg": 10.7,
+   "cva_study": 6.0,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant studies performed in healthy adults",
+   "doi": "10.1515/cclm-2021-0904",
+   "source_label": "Fernandez-Calle P, et al. Clin Chem Lab Med 2022 (thyroid meta-analysis)",
+   "location": "Table 2"
+  },
+  {
+   "slug": "total-t4",
+   "marker_slug": "total-t4",
+   "name": "Total thyroxine (T4)",
+   "specimen": "serum",
+   "cvi": 6.4,
+   "cvi_ci": [
+    4.9,
+    6.9
+   ],
+   "cvg": 12.0,
+   "cva_study": 5.7,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant studies performed in healthy adults",
+   "doi": "10.1515/cclm-2021-0904",
+   "source_label": "Fernandez-Calle P, et al. Clin Chem Lab Med 2022 (thyroid meta-analysis)",
+   "location": "Table 2"
+  },
+  {
+   "slug": "tpo-antibody",
+   "marker_slug": "tpo-antibody",
+   "name": "Thyroid peroxidase antibodies (anti-TPO)",
+   "specimen": "serum",
+   "cvi": 11.3,
+   "cvi_ci": [
+    10.0,
+    12.8
+   ],
+   "cvg": 147.0,
+   "cva_study": 10.6,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant studies performed in healthy adults",
+   "doi": "10.1515/cclm-2021-0904",
+   "source_label": "Fernandez-Calle P, et al. Clin Chem Lab Med 2022 (thyroid meta-analysis)",
+   "location": "Table 2"
+  },
+  {
+   "slug": "transferrin",
+   "marker_slug": "transferrin",
+   "name": "Transferrin",
+   "specimen": "serum",
+   "cvi": 3.4,
+   "cvi_ci": [
+    3.1,
+    3.6
+   ],
+   "cvg": 13.9,
+   "cva_study": 2.69,
+   "n_subjects": 89,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 43 ('Trf, g/L'), pp. 509-511; primary paper ref [27] (doi 10.1373/clinchem.2019.304618)"
+  },
+  {
+   "slug": "triglycerides",
+   "marker_slug": "triglycerides",
+   "name": "Triglycerides",
+   "specimen": "serum",
+   "cvi": 19.8,
+   "cvi_ci": [
+    18.9,
+    20.9
+   ],
+   "cvg": 40.3,
+   "cva_study": 1.8,
+   "n_subjects": 88,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 20 ('Trig, mmol/L'), pp. 509-511; primary paper ref [23] (doi 10.1373/clinchem.2018.288415)"
+  },
+  {
+   "slug": "troponin-i-hs",
+   "marker_slug": "troponin-i-hs",
+   "name": "Cardiac troponin I, high-sensitivity (Siemens assay)",
+   "specimen": "serum",
+   "cvi": 13.9,
+   "cvi_ci": [
+    12.7,
+    15.0
+   ],
+   "cvg": 36.3,
+   "cva_study": 10.7,
+   "n_subjects": 66,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 49 ('TnI Siemens, ng/L'), pp. 509-511; primary paper ref [28] (doi 10.1515/cclm-2019-1182)"
+  },
+  {
+   "slug": "troponin-t-hs",
+   "marker_slug": "troponin-t-hs",
+   "name": "Cardiac troponin T, high-sensitivity (hs-cTnT)",
+   "specimen": "serum or plasma",
+   "cvi": 11.5,
+   "cvi_ci": [
+    8.3,
+    21.7
+   ],
+   "cvg": 32.2,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant studies in healthy subjects; long-term sampling (weekly to quarterly)",
+   "doi": "10.1093/clinchem/hvaa261",
+   "source_label": "Diaz-Garzon J, et al. Clin Chem 2021;67:256-264 (cardiac troponin meta-analysis)",
+   "location": "Table 2, section A (all studies meeting criteria), hs-cTnT, Healthy, Long-term columns"
+  },
+  {
+   "slug": "tsh",
+   "marker_slug": "tsh",
+   "name": "Thyroid-stimulating hormone (TSH)",
+   "specimen": "serum",
+   "cvi": 18.9,
+   "cvi_ci": [
+    17.5,
+    20.5
+   ],
+   "cvg": 35.9,
+   "cva_study": 1.46,
+   "n_subjects": 85,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 59 ('TSH, mIU/L'), pp. 509-511; primary paper ref [35] (doi 10.1515/cclm-2020-1885)"
+  },
+  {
+   "slug": "tsi",
+   "marker_slug": "tsi",
+   "name": "Thyroid-stimulating immunoglobulin (TSI)",
+   "specimen": "serum",
+   "cvi": 21.2,
+   "cvi_ci": [
+    14.8,
+    29.3
+   ],
+   "cvg": 35.0,
+   "cva_study": 8.8,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant studies performed in healthy adults",
+   "doi": "10.1515/cclm-2021-0904",
+   "source_label": "Fernandez-Calle P, et al. Clin Chem Lab Med 2022 (thyroid meta-analysis)",
+   "location": "Table 2"
+  },
+  {
+   "slug": "urea",
+   "marker_slug": "urea",
+   "name": "Urea",
+   "specimen": "serum",
+   "cvi": 14.1,
+   "cvi_ci": [
+    13.4,
+    14.8
+   ],
+   "cvg": 22.5,
+   "cva_study": 2.32,
+   "n_subjects": 91,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 22 ('Urea, mmol/L'), pp. 509-511; primary paper ref [23] (doi 10.1373/clinchem.2018.288415)"
+  },
+  {
+   "slug": "uric-acid",
+   "marker_slug": "uric-acid",
+   "name": "Uric acid",
+   "specimen": "serum",
+   "cvi": 8.32,
+   "cvi_ci": [
+    7.9,
+    8.8
+   ],
+   "cvg": 23.6,
+   "cva_study": 0.86,
+   "n_subjects": 91,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 23 ('UA, μmol/L'), pp. 509-511; primary paper ref [23] (doi 10.1373/clinchem.2018.288415)"
+  },
+  {
+   "slug": "urine-creatinine",
+   "marker_slug": "urine-creatinine",
+   "name": "Creatinine (random urine, concentration)",
+   "specimen": "urine (random/spot)",
+   "cvi": 41.8,
+   "cvi_ci": [
+    36.3,
+    47.4
+   ],
+   "cvg": 42.1,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant studies (2 estimates)",
+   "doi": "10.1016/j.cca.2024.120032",
+   "source_label": "Aslan B, et al. Clin Chim Acta 2025 (urine markers meta-analysis)",
+   "location": "Table 2 (accepted manuscript, repository copy)"
+  },
+  {
+   "slug": "urine-potassium",
+   "marker_slug": "urine-potassium",
+   "name": "Potassium (random urine, concentration)",
+   "specimen": "urine (random/spot)",
+   "cvi": 40.1,
+   "cvi_ci": [
+    39.2,
+    40.8
+   ],
+   "cvg": 36.8,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant studies (2 estimates)",
+   "doi": "10.1016/j.cca.2024.120032",
+   "source_label": "Aslan B, et al. Clin Chim Acta 2025 (urine markers meta-analysis)",
+   "location": "Table 2 (accepted manuscript, repository copy)"
+  },
+  {
+   "slug": "urine-sodium",
+   "marker_slug": "urine-sodium",
+   "name": "Sodium (random urine, concentration)",
+   "specimen": "urine (random/spot)",
+   "cvi": 32.8,
+   "cvi_ci": [
+    30.9,
+    34.2
+   ],
+   "cvg": 35.8,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant studies (2 estimates)",
+   "doi": "10.1016/j.cca.2024.120032",
+   "source_label": "Aslan B, et al. Clin Chim Acta 2025 (urine markers meta-analysis)",
+   "location": "Table 2 (accepted manuscript, repository copy)"
+  },
+  {
+   "slug": "von-willebrand-factor",
+   "marker_slug": "von-willebrand-factor",
+   "name": "Von Willebrand factor antigen (VWF:Ag)",
+   "specimen": "citrated plasma",
+   "cvi": 12.7,
+   "cvi_ci": [
+    11.1,
+    19.4
+   ],
+   "cvg": 29.9,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant studies in healthy, non-pregnant adults aged 18-75 years",
+   "doi": "10.1515/cclm-2022-1207",
+   "source_label": "Hollestelle MJ, et al. Clin Chem Lab Med 2023 (coagulation and fibrinolysis meta-analysis)",
+   "location": "Table 2"
+  },
+  {
+   "slug": "wbc",
+   "marker_slug": "wbc",
+   "name": "Leukocyte count (WBC)",
+   "specimen": "whole blood (EDTA)",
+   "cvi": 10.01,
+   "cvi_ci": [
+    8.9,
+    11.35
+   ],
+   "cvg": 16.48,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant (grade A-C) studies; healthy individuals aged 18-75 years; within-day estimates excluded",
+   "doi": "10.1515/cclm-2019-0658",
+   "source_label": "Coskun A, et al. Clin Chem Lab Med 2020;58:25-32 (haematology meta-analysis)",
+   "location": "Table 2, p. 28"
+  },
+  {
+   "slug": "zinc",
+   "marker_slug": "zinc",
+   "name": "Zinc",
+   "specimen": "serum",
+   "cvi": 8.8,
+   "cvi_ci": [
+    8.2,
+    9.3
+   ],
+   "cvg": 8.3,
+   "cva_study": 2.4,
+   "n_subjects": 68,
+   "population": "EuBIVAS subset: 68 healthy adults",
+   "doi": "10.1515/cclm-2021-0886",
+   "source_label": "Coskun A, et al. Clin Chem Lab Med 2022 (EuBIVAS zinc, copper, selenium)",
+   "location": "Table 2, p. 6"
+  },
+  {
+   "slug": "alpha-1-acid-glycoprotein",
+   "marker_slug": null,
+   "name": "Alpha-1-acid glycoprotein",
+   "specimen": "serum",
+   "cvi": 6.8,
+   "cvi_ci": [
+    6.5,
+    7.2
+   ],
+   "cvg": 24.0,
+   "cva_study": 1.96,
+   "n_subjects": 87,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 32 ('AGP, g/L'), pp. 509-511; primary paper ref [27] (doi 10.1373/clinchem.2019.304618)"
+  },
+  {
+   "slug": "cyfra-21-1",
+   "marker_slug": null,
+   "name": "CYFRA 21-1",
+   "specimen": "serum",
+   "cvi": 19.7,
+   "cvi_ci": [
+    18.7,
+    20.7
+   ],
+   "cvg": 29.5,
+   "cva_study": 2.5,
+   "n_subjects": 89,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 71 ('Cyfra 21-1, μg/L'), pp. 509-511; primary paper ref [36] (doi 10.1515/cclm-2021-0283)"
+  },
+  {
+   "slug": "calcitonin",
+   "marker_slug": null,
+   "name": "Calcitonin",
+   "specimen": "serum",
+   "cvi": 13.0,
+   "cvi_ci": [
+    12.3,
+    13.9
+   ],
+   "cvg": 65.8,
+   "cva_study": 3.84,
+   "n_subjects": 68,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 62 ('HCT, ng/L'), pp. 509-511; primary paper ref [35] (doi 10.1515/cclm-2020-1885)"
+  },
+  {
+   "slug": "coagulation-factor-viii",
+   "marker_slug": null,
+   "name": "Coagulation factor VIII",
+   "specimen": "citrated plasma",
+   "cvi": 8.3,
+   "cvi_ci": [
+    7.5,
+    9.2
+   ],
+   "cvg": 23.3,
+   "cva_study": 5.9,
+   "n_subjects": 91,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 78 ('FVIII, %'), pp. 509-511; primary paper ref [37] (doi 10.1093/clinchem/hvab100)"
+  },
+  {
+   "slug": "glycated-albumin",
+   "marker_slug": null,
+   "name": "Glycated albumin",
+   "specimen": "whole blood (HbA1c); serum or plasma (glucose, glycated albumin)",
+   "cvi": 1.4,
+   "cvi_ci": [
+    1.2,
+    2.1
+   ],
+   "cvg": 5.7,
+   "cva_study": null,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant studies (this review plus a previous systematic review)",
+   "doi": "10.1515/almed-2020-0029",
+   "source_label": "Ricos C, et al. Adv Lab Med 2020 (glucose, HbA1c, glycated albumin meta-analysis)",
+   "location": "Table 3"
+  },
+  {
+   "slug": "human-epididymis-protein-4-he4",
+   "marker_slug": null,
+   "name": "Human epididymis protein 4 (HE4)",
+   "specimen": "serum",
+   "cvi": 6.7,
+   "cvi_ci": [
+    6.3,
+    7.2
+   ],
+   "cvg": 18.5,
+   "cva_study": 1.1,
+   "n_subjects": 52,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years); this measurand: females only",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 72 ('HE4, pmol/L'), pp. 509-511; primary paper ref [36] (doi 10.1515/cclm-2021-0283)"
+  },
+  {
+   "slug": "intact-fibroblast-growth-factor-23",
+   "marker_slug": null,
+   "name": "Intact fibroblast growth factor 23",
+   "specimen": "serum or plasma (see primary paper)",
+   "cvi": 13.9,
+   "cvi_ci": [
+    13.2,
+    14.7
+   ],
+   "cvg": 26.4,
+   "cva_study": 4.4,
+   "n_subjects": 91,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 56 ('iFGF23, ng/L'), pp. 509-511; primary paper ref [30] (doi 10.1007/s00198-020-05362-8)"
+  },
+  {
+   "slug": "neuron-specific-enolase-nse",
+   "marker_slug": null,
+   "name": "Neuron-specific enolase (NSE)",
+   "specimen": "serum",
+   "cvi": 10.9,
+   "cvi_ci": [
+    10.3,
+    11.5
+   ],
+   "cvg": 20.3,
+   "cva_study": 3.2,
+   "n_subjects": 89,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 29 ('NSE, μg/L'), pp. 509-511; primary paper ref [26] (doi 10.1373/clinchem.2018.292169)"
+  },
+  {
+   "slug": "pancreatic-amylase",
+   "marker_slug": null,
+   "name": "Pancreatic amylase",
+   "specimen": "serum",
+   "cvi": 6.3,
+   "cvi_ci": [
+    6.0,
+    6.7
+   ],
+   "cvg": 24.9,
+   "cva_study": 1.8,
+   "n_subjects": 84,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 8 ('PAMY, U/L'), pp. 509-511; primary paper ref [22] (doi 10.1373/clinchem.2016.269811)"
+  },
+  {
+   "slug": "prostate-specific-antigen-complexed",
+   "marker_slug": null,
+   "name": "Prostate-specific antigen (complexed)",
+   "specimen": "serum",
+   "cvi": 8.8,
+   "cvi_ci": [
+    8.0,
+    9.7
+   ],
+   "cvg": 57.7,
+   "cva_study": 4.7,
+   "n_subjects": 34,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years); this measurand: males only",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 66 ('cPSA, µg/L'), pp. 509-511; primary paper ref [25] (doi 10.1016/j.cca.2018.07.043)"
+  },
+  {
+   "slug": "s100-beta-protein",
+   "marker_slug": null,
+   "name": "S100-beta protein",
+   "specimen": "serum",
+   "cvi": 10.2,
+   "cvi_ci": [
+    9.6,
+    10.7
+   ],
+   "cvg": 32.7,
+   "cva_study": 4.3,
+   "n_subjects": 91,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 30 ('S100B, pg/L'), pp. 509-511; primary paper ref [26] (doi 10.1373/clinchem.2018.292169)"
+  },
+  {
+   "slug": "thyroxine-binding-globulin-tbg",
+   "marker_slug": null,
+   "name": "Thyroxine-binding globulin (TBG)",
+   "specimen": "serum",
+   "cvi": 4.4,
+   "cvi_ci": [
+    3.2,
+    5.6
+   ],
+   "cvg": 12.6,
+   "cva_study": 5.2,
+   "n_subjects": null,
+   "population": "Meta-analysis of BIVAC-compliant studies performed in healthy adults",
+   "doi": "10.1515/cclm-2021-0904",
+   "source_label": "Fernandez-Calle P, et al. Clin Chem Lab Med 2022 (thyroid meta-analysis)",
+   "location": "Table 2"
+  },
+  {
+   "slug": "uncarboxylated-unphosphorylated-matrix-gla-protein",
+   "marker_slug": null,
+   "name": "Uncarboxylated unphosphorylated matrix Gla protein",
+   "specimen": "plasma or serum (see primary paper)",
+   "cvi": 6.9,
+   "cvi_ci": [
+    6.1,
+    7.3
+   ],
+   "cvg": 13.9,
+   "cva_study": 6.9,
+   "n_subjects": 85,
+   "population": "EuBIVAS: ostensibly healthy adults from 6 European centres (91 included: 38 men, 43 women under 50, 10 women over 50; age about 20-69 years)",
+   "doi": "10.1515/cclm-2021-0370",
+   "source_label": "Carobene A, et al. Clin Chem Lab Med 2022;60:505-517 (EuBIVAS summary report)",
+   "location": "Table 2, row 53 ('uCuP-MGP, pmol/L'), pp. 509-511; primary paper ref [30] (doi 10.1007/s00198-020-05362-8)"
+  }
+ ],
+ "formulas": {
+  "units": "All CVs in percent.",
+  "z": {
+   "two_sided": {
+    "0.90": 1.645,
+    "0.95": 1.96,
+    "0.99": 2.576
+   },
+   "one_sided": {
+    "0.90": 1.282,
+    "0.95": 1.645,
+    "0.99": 2.326
+   }
+  },
+  "rcv_symmetric": {
+   "expr": "rcv = ± z * sqrt(2) * sqrt(cva^2 + cvi^2)",
+   "sources": [
+    "10.11613/bm.2019.030702",
+    "10.1515/almed-2020-0063",
+    "10.21037/atm-19-4498"
+   ]
+  },
+  "rcv_lognormal": {
+   "expr": "s = sqrt(ln(1 + (cva/100)^2) + ln(1 + (cvi/100)^2)); rcv_up = 100*(exp(z*sqrt(2)*s) - 1); rcv_down = 100*(exp(-z*sqrt(2)*s) - 1)",
+   "original": "10.1373/clinchem.2006.069369",
+   "original_full_text_read": false,
+   "sources": [
+    "10.1515/cclm-2021-0904",
+    "10.21037/atm-19-4498"
+   ]
+  },
+  "percent_change": {
+   "expr": "100 * (value2 - value1) / value1"
+  },
+  "exceeds": {
+   "expr": "percent_change >= rcv_up or percent_change <= rcv_down"
+  },
+  "index_of_individuality": {
+   "expr": "ii = cvi / cvg",
+   "note": "Below about 0.6: population reference intervals say little about change in one person.",
+   "original": "10.1093/clinchem/20.12.1535",
+   "original_full_text_read": false,
+   "sources": [
+    "10.1515/almed-2020-0063",
+    "10.1515/cclm-2021-0904"
+   ]
+  },
+  "aps": {
+   "optimum": {
+    "imprecision": "0.25 * cvi",
+    "bias": "0.125 * sqrt(cvi^2 + cvg^2)"
+   },
+   "desirable": {
+    "imprecision": "0.50 * cvi",
+    "bias": "0.250 * sqrt(cvi^2 + cvg^2)"
+   },
+   "minimum": {
+    "imprecision": "0.75 * cvi",
+    "bias": "0.375 * sqrt(cvi^2 + cvg^2)"
+   },
+   "total_error": "1.65 * imprecision + bias",
+   "sources": [
+    "10.11613/bm.2019.030702",
+    "10.21037/atm-19-4498",
+    "10.1016/j.cca.2024.117806"
+   ],
+   "framework": "10.1515/cclm-2015-0067"
+  },
+  "cva_policy": "Enter the CVA of the laboratory that produced the results. cva_study is the CVA from the BV study (duplicates in one run) and is usually smaller than routine between-day CVA. 0.5*cvi may be used only as a labelled 'desirable goal' fallback."
+ }
+}

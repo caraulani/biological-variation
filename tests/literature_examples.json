@@ -1,0 +1,188 @@
+{
+ "note": "Published reference change values reproduced by the reference implementation. Each 'expected' value is copied from the cited full text (read 2026-11-25). A computed value passes when it is within one unit of the last digit the paper printed (0.1), because papers compute from unrounded CVs but print rounded ones. Exact tolerances per example are in the test output.",
+ "examples": [
+  {
+   "id": "ercan2019_pth_all",
+   "doi": "10.11613/bm.2019.030702",
+   "location": "Table 2, RCV row, 'All group'; Methods: RCV = 2^1/2 x Z x (CVA^2 + CVI^2)^1/2, Z = 1.96",
+   "inputs": {
+    "cvi": 21.1,
+    "cva": 3.8,
+    "probability": 0.95,
+    "sided": "two",
+    "model": "symmetric"
+   },
+   "expected": {
+    "rcv_up": 59.4
+   },
+   "decimals": 1
+  },
+  {
+   "id": "ercan2019_pth_male",
+   "doi": "10.11613/bm.2019.030702",
+   "location": "Table 2, RCV row, 'Male'",
+   "inputs": {
+    "cvi": 18.5,
+    "cva": 3.8,
+    "probability": 0.95,
+    "sided": "two",
+    "model": "symmetric"
+   },
+   "expected": {
+    "rcv_up": 52.3
+   },
+   "decimals": 1
+  },
+  {
+   "id": "ercan2019_pth_female",
+   "doi": "10.11613/bm.2019.030702",
+   "location": "Table 2, RCV row, 'Female'",
+   "inputs": {
+    "cvi": 24.0,
+    "cva": 3.8,
+    "probability": 0.95,
+    "sided": "two",
+    "model": "symmetric"
+   },
+   "expected": {
+    "rcv_up": 67.3
+   },
+   "decimals": 1
+  },
+  {
+   "id": "fernandezcalle2022_tsh",
+   "doi": "10.1515/cclm-2021-0904",
+   "location": "Table 2, TSH row (mean CVA 6.4, CVI 17.9); text says Z 1.64, values match z = 1.645",
+   "inputs": {
+    "cvi": 17.9,
+    "cva": 6.4,
+    "probability": 0.95,
+    "sided": "one",
+    "model": "lognormal"
+   },
+   "expected": {
+    "rcv_down": -35.5,
+    "rcv_up": 55.1
+   },
+   "decimals": 1
+  },
+  {
+   "id": "fernandezcalle2022_ft4",
+   "doi": "10.1515/cclm-2021-0904",
+   "location": "Table 2, fT4 row",
+   "inputs": {
+    "cvi": 4.8,
+    "cva": 4.2,
+    "probability": 0.95,
+    "sided": "one",
+    "model": "lognormal"
+   },
+   "expected": {
+    "rcv_down": -13.8,
+    "rcv_up": 16.0
+   },
+   "decimals": 1
+  },
+  {
+   "id": "fernandezcalle2022_t4",
+   "doi": "10.1515/cclm-2021-0904",
+   "location": "Table 2, T4 row",
+   "inputs": {
+    "cvi": 6.4,
+    "cva": 5.7,
+    "probability": 0.95,
+    "sided": "one",
+    "model": "lognormal"
+   },
+   "expected": {
+    "rcv_down": -18.1,
+    "rcv_up": 22.0
+   },
+   "decimals": 1
+  },
+  {
+   "id": "fernandezcalle2022_ft3",
+   "doi": "10.1515/cclm-2021-0904",
+   "location": "Table 2, fT3 row",
+   "inputs": {
+    "cvi": 5.1,
+    "cva": 3.1,
+    "probability": 0.95,
+    "sided": "one",
+    "model": "lognormal"
+   },
+   "expected": {
+    "rcv_down": -13.0,
+    "rcv_up": 14.9
+   },
+   "decimals": 1
+  },
+  {
+   "id": "fernandezcalle2022_t3",
+   "doi": "10.1515/cclm-2021-0904",
+   "location": "Table 2, T3 row",
+   "inputs": {
+    "cvi": 9.6,
+    "cva": 6.0,
+    "probability": 0.95,
+    "sided": "one",
+    "model": "lognormal"
+   },
+   "expected": {
+    "rcv_down": -23.1,
+    "rcv_up": 30.1
+   },
+   "decimals": 1
+  },
+  {
+   "id": "fernandezcalle2022_tg",
+   "doi": "10.1515/cclm-2021-0904",
+   "location": "Table 2, TG (thyroglobulin) row",
+   "inputs": {
+    "cvi": 10.7,
+    "cva": 5.5,
+    "probability": 0.95,
+    "sided": "one",
+    "model": "lognormal"
+   },
+   "expected": {
+    "rcv_down": -24.4,
+    "rcv_up": 32.2
+   },
+   "decimals": 1
+  },
+  {
+   "id": "fernandezcalle2022_tsi",
+   "doi": "10.1515/cclm-2021-0904",
+   "location": "Table 2, TSI row",
+   "inputs": {
+    "cvi": 21.2,
+    "cva": 8.8,
+    "probability": 0.95,
+    "sided": "one",
+    "model": "lognormal"
+   },
+   "expected": {
+    "rcv_down": -41.1,
+    "rcv_up": 69.7
+   },
+   "decimals": 1
+  },
+  {
+   "id": "carobene2023_iron_men",
+   "doi": "10.1515/cclm-2022-1091",
+   "location": "Table 1, 'Males' row (CVA 1.9 from 'All subjects'); reproduced with z = 1.64",
+   "inputs": {
+    "cvi": 24.9,
+    "cva": 1.9,
+    "z": 1.64,
+    "model": "lognormal"
+   },
+   "expected": {
+    "rcv_down": -43.5,
+    "rcv_up": 76.9
+   },
+   "decimals": 1
+  }
+ ]
+}
